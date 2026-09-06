@@ -15,17 +15,17 @@
             <Keywords name="Numbers, range"></Keywords>
             <Keywords name="Operators1">[ ] , ##</Keywords>
             <Keywords name="Operators2"></Keywords>
-            <Keywords name="Folders in code1, open">{</Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
-            <Keywords name="Folders in code1, close">}</Keywords>
-            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open">{</Keywords>
             <Keywords name="Folders in code2, middle"></Keywords>
-            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in code2, close">}</Keywords>
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">as node package process queue rectangle stack abstract action artifact card class cloud component database enum file folder frame hexagon object participant rect storage</Keywords>
-            <Keywords name="Keywords2">&lt;&lt;- -&gt;&gt; -||&gt; &lt;||- -:|&gt; &lt;|:- -(0) (0)- -(0 (0- -0) 0)- -0 0- -( )- &lt;&lt;= =&gt;&gt; =||&gt; &lt;||= =:|&gt; &lt;|:= =(0) (0)= =(0 (0= =0) 0)= =0 0= =( )= &lt;&lt;. .&gt;&gt; .||&gt; &lt;||. .:|&gt; &lt;|:. .(0) (0). .(0 (0. .0) 0). .0 0. .( ). &lt;&lt;~ ~&gt;&gt; ~||&gt; &lt;||~ ~:|&gt; &lt;|:~ ~(0) (0)~ ~(0 (0~ ~0) 0)~ ~0 0~ ~( )~ -&gt; &lt;- -* *- o- -o -+ +- #- -# -&#92;&#92;&#92; &#92;&#92;&#92;- -// //- -^ ^- -|&gt; &lt;|- -@ @- }- -{ -[ ]- -up up- -down down- -left left- -right right- -do do- -le le- -ri ri- -u u- -d d- -l l- -r r- =&gt; &lt;= =* *= o= =o =+ += #= =# =&#92;&#92;&#92; &#92;&#92;&#92;= =// //= =^ ^= =|&gt; &lt;|= =@ @= }= ={ =[ ]= =up up= =down down= =left left= =right right= =do do= =le le= =ri ri= =u u= =d d= =l l= =r r= .&gt; &lt;. .* *. o. .o .+ +. #. .# .&#92;&#92;&#92; &#92;&#92;&#92;. .// //. .^ ^. .|&gt; &lt;|. .@ @. }. .{ .[ ]. .up up. .down down. .left left. .right right. .do do. .le le. .ri ri. .u u. .d d. .l l. .r r. ~&gt; &lt;~ ~* *~ o~ ~o ~+ +~ #~ ~# ~&#92;&#92;&#92; &#92;&#92;&#92;~ ~// //~ ~^ ^~ ~|&gt; &lt;|~ ~@ @~ }~ ~{ ~[ ]~ ~up up~ ~down down~ ~left left~ ~right right~ ~do do~ ~le le~ ~ri ri~ ~u u~ ~d d~ ~l l~ ~r r~ - = . ~</Keywords>
+            <Keywords name="Keywords2">&lt;&lt;- -&gt;&gt; -||&gt; &lt;||- -:|&gt; &lt;|:- -(0) (0)- -(0 (0- -0) 0)- -0 0- -( )- &lt;&lt;= =&gt;&gt; =||&gt; &lt;||= =:|&gt; &lt;|:= =(0) (0)= =(0 (0= =0) 0)= =0 0= =( )= &lt;&lt;. .&gt;&gt; .||&gt; &lt;||. .:|&gt; &lt;|:. .(0) (0). .(0 (0. .0) 0). .0 0. .( ). &lt;&lt;~ ~&gt;&gt; ~||&gt; &lt;||~ ~:|&gt; &lt;|:~ ~(0) (0)~ ~(0 (0~ ~0) 0)~ ~0 0~ ~( )~ -&gt; &lt;- -* *- o- -o -+ +- #- -# -&#92;&#92;&#92; &#92;&#92;&#92;- -// //- -^ ^- -|&gt; &lt;|- -@ @- }- -{ -up up- -down down- -left left- -right right- -do do- -le le- -ri ri- -u u- -d d- -l l- -r r- =&gt; &lt;= =* *= o= =o =+ += #= =# =&#92;&#92;&#92; &#92;&#92;&#92;= =// //= =^ ^= =|&gt; &lt;|= =@ @= }= ={ =up up= =down down= =left left= =right right= =do do= =le le= =ri ri= =u u= =d d= =l l= =r r= .&gt; &lt;. .* *. o. .o .+ +. #. .# .&#92;&#92;&#92; &#92;&#92;&#92;. .// //. .^ ^. .|&gt; &lt;|. .@ @. }. .{ .up up. .down down. .left left. .right right. .do do. .le le. .ri ri. .u u. .d d. .l l. .r r. ~&gt; &lt;~ ~* *~ o~ ~o ~+ +~ #~ ~# ~&#92;&#92;&#92; &#92;&#92;&#92;~ ~// //~ ~^ ^~ ~|&gt; &lt;|~ ~@ @~ }~ ~{ ~up up~ ~down down~ ~left left~ ~right right~ ~do do~ ~le le~ ~ri ri~ ~u u~ ~d d~ ~l l~ ~r r~ - = . ~</Keywords>
             <Keywords name="Keywords3">@startuml @enduml @startditaa @endditaa @startjcckit @endjcckit @startnwdiag @endnwdiag @startsalt @endsalt !define !ifdef !ifndef !import !include !include_once !include_many !undef !local !global !theme  !if !else !elseif !endif !while !endwhile !procedure "!unquoted procedure" !endprocedure !function !return !endfunction !unquoted !startsub !endsub !includesub !log !dump_memory !assert !pragma</Keywords>
             <Keywords name="Keywords4"># ! $ % @</Keywords>
             <Keywords name="Keywords5">0 1 2 3 4 5 6 7 8 9</Keywords>
