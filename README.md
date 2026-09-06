@@ -33,9 +33,11 @@ Inspired by https://github.com/brianmaher84/PlantUML_Notepad-_UDL
       - Don't use `Stereotype`? Get rid of the delimiter
       - Don't use `<<-` arrows? Don't worry about it
 3. Pre-processor functions
-    - Faded cyan (#0080CC)
+    - Magenta (#d33682)
+    - Color from [Solarized](https://github.com/altercation/solarized)
 4. Declaration symbols
     - Dark violet (#6C71C4)
+    - Color from [Solarized](https://github.com/altercation/solarized)
     - Also styles the following word
 5. Numbers
     - Bright orange (#FF8040)

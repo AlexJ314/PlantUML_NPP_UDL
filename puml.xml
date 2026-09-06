@@ -41,7 +41,7 @@
             <WordsStyle name="NUMBERS" fgColor="FF8040" bgColor="000000" fontName="" fontStyle="0" nesting="0" />       <!-- Numbers -->
             <WordsStyle name="KEYWORDS1" fgColor="CC2222" bgColor="000000" fontName="" fontStyle="0" nesting="0" />     <!-- Nesting classes -->
             <WordsStyle name="KEYWORDS2" fgColor="0080FF" bgColor="000000" fontName="" fontStyle="0" nesting="0" />     <!-- Lines and arrows -->
-            <WordsStyle name="KEYWORDS3" fgColor="0080CC" bgColor="000000" fontName="" fontStyle="0" nesting="0" />     <!-- Pre-processor functions -->
+            <WordsStyle name="KEYWORDS3" fgColor="d33682" bgColor="000000" fontName="" fontStyle="0" nesting="0" />     <!-- Pre-processor functions -->
             <WordsStyle name="KEYWORDS4" fgColor="6c71c4" bgColor="000000" fontName="" fontStyle="0" nesting="0" />     <!-- Declaration symbols -->
             <WordsStyle name="KEYWORDS5" fgColor="FF8040" bgColor="000000" fontName="" fontStyle="0" nesting="0" />     <!-- Numbers -->
             <WordsStyle name="KEYWORDS6" fgColor="CCCC80" bgColor="000000" fontName="" fontStyle="0" nesting="0" />     <!-- CSS style and colors -->
